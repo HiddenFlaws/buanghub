@@ -1,0 +1,35 @@
+local codes = {
+    "TyFor10kFav", 
+    "TyFor1mVisitsPart2", 
+    "TyFor1mVisitsPart1",
+    "YammoRework",
+    "Sub2Blamspot524k",
+    "Sub2BmGTormenter117onYT",
+    "Sub2CodeNex77k",
+    "RELEASE",
+    "SorryForDelay",
+    "TyFor2kFav",
+    "FinalDelay",
+    "FreeNami",
+    "3219872",
+    "Async",
+    "Shock",
+    "here", --
+    "ToadBoi120k",
+    "DISGUISED",
+    "D1SGUISED",
+    "Sub2KingLuffy",
+    "Sub2HotSauceHan",
+    "BlamTopSecretCodeWontWorkIfNotSubbed",
+    "GoalReached",
+    "neelsTV",
+    "BlamsSecret1MillionUniquePlayerCode",
+    "Shutdown",
+    "Fixes",
+    "FminusMicSecretCodeMustBeSubbedToWorkLOL",
+    "BlamsOP5MillionVisitsRerollCodeMustBeSubbedToWorkLOL",
+    "Update1Hype",
+    "BlamsAndShocksNightmare100kMemberReRollCodeTrySubscribingToBlamSpotOnYTAndFollowingFr_ShockOnTwitterIfItDoesntWork"
+}
+
+return codes;
