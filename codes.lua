@@ -29,7 +29,11 @@ local codes = {
     "FminusMicSecretCodeMustBeSubbedToWorkLOL",
     "BlamsOP5MillionVisitsRerollCodeMustBeSubbedToWorkLOL",
     "Update1Hype",
-    "BlamsAndShocksNightmare100kMemberReRollCodeTrySubscribingToBlamSpotOnYTAndFollowingFr_ShockOnTwitterIfItDoesntWork"
+    "BlamsAndShocksNightmare100kMemberReRollCodeTrySubscribingToBlamSpotOnYTAndFollowingFr_ShockOnTwitterIfItDoesntWork",
+    "Update1HYPE!",
+    "TyFor25mVisitsOMG!",
+    "200kMembersINSANE!",
+    "50ThousandsFavorites!!!"
 }
 
 return codes;
