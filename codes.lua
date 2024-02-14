@@ -33,7 +33,8 @@ local codes = {
     "Update1HYPE!",
     "TyFor25mVisitsOMG!",
     "200kMembersINSANE!",
-    "50ThousandsFavorites!!!"
+    "50ThousandsFavorites!!!",
+    "ULTIMATEGOJO"
 }
 
 return codes;
