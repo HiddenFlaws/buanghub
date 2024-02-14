@@ -34,7 +34,8 @@ local codes = {
     "TyFor25mVisitsOMG!",
     "200kMembersINSANE!",
     "50ThousandsFavorites!!!",
-    "ULTIMATEGOJO"
+    "ULTIMATEGOJO",
+    "BlamSecretValentinesCode"
 }
 
 return codes;
