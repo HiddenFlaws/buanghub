@@ -36,7 +36,8 @@ local codes = {
     "50ThousandsFavorites!!!",
     "ULTIMATEGOJO",
     "BlamSecretValentinesCode",
-    "BlamSpotInsaneWeekendCodeMustBeSubbedToWork"
+    "BlamSpotInsaneWeekendCodeMustBeSubbedToWork",
+    "ThankYouSoMuch45mVisits"
 }
 
 return codes;
