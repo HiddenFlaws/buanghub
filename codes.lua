@@ -35,7 +35,8 @@ local codes = {
     "200kMembersINSANE!",
     "50ThousandsFavorites!!!",
     "ULTIMATEGOJO",
-    "BlamSecretValentinesCode"
+    "BlamSecretValentinesCode",
+    "BlamSpotInsaneWeekendCodeMustBeSubbedToWork"
 }
 
 return codes;
