@@ -32,7 +32,8 @@ local codes = {
     "BlamSecretValentinesCode",
     "BlamSpotInsaneWeekendCodeMustBeSubbedToWork",
     "ThankYouSoMuch45mVisits",
-    "HanminloveSecretCodeMustBeSubbedToWork"
+    "HanminloveSecretCodeMustBeSubbedToWork",
+    "SkillTreeRestALPHAReportAnyBugs"
 }
 
 return codes;
