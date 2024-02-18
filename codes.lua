@@ -33,7 +33,8 @@ local codes = {
     "BlamSpotInsaneWeekendCodeMustBeSubbedToWork",
     "ThankYouSoMuch45mVisits",
     "HanminloveSecretCodeMustBeSubbedToWork",
-    "SkillTreeRestALPHAReportAnyBugs"
+    "SkillTreeRestALPHAReportAnyBugs",
+    "ALSUpdateIsCooking"
 }
 
 return codes;
