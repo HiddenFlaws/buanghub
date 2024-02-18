@@ -1,10 +1,4 @@
 local codes = {
-    "TyFor10kFav", 
-    "TyFor1mVisitsPart2", 
-    "TyFor1mVisitsPart1",
-    "YammoRework",
-    "Sub2Blamspot524k",
-    "Sub2BmGTormenter117onYT",
     "Sub2CodeNex77k",
     "RELEASE",
     "SorryForDelay",
@@ -37,7 +31,8 @@ local codes = {
     "ULTIMATEGOJO",
     "BlamSecretValentinesCode",
     "BlamSpotInsaneWeekendCodeMustBeSubbedToWork",
-    "ThankYouSoMuch45mVisits"
+    "ThankYouSoMuch45mVisits",
+    "HanminloveSecretCodeMustBeSubbedToWork"
 }
 
 return codes;
