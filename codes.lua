@@ -35,7 +35,8 @@ local codes = {
     "HanminloveSecretCodeMustBeSubbedToWork",
     "SkillTreeRestALPHAReportAnyBugs",
     "ALSUpdateIsCooking",
-    "BigUpdateWednesday"
+    "BigUpdateWednesday",
+    "BUFF"
 }
 
 return codes;
