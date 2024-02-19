@@ -34,7 +34,8 @@ local codes = {
     "ThankYouSoMuch45mVisits",
     "HanminloveSecretCodeMustBeSubbedToWork",
     "SkillTreeRestALPHAReportAnyBugs",
-    "ALSUpdateIsCooking"
+    "ALSUpdateIsCooking",
+    "BigUpdateWednesday"
 }
 
 return codes;
