@@ -36,7 +36,8 @@ local codes = {
     "SkillTreeRestALPHAReportAnyBugs",
     "ALSUpdateIsCooking",
     "BigUpdateWednesday",
-    "BUFF"
+    "BUFF",
+    "BlamsSecretMiniUpdateMustBeSubbedToWork"
 }
 
 return codes;
