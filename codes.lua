@@ -38,7 +38,11 @@ local codes = {
     "BigUpdateWednesday",
     "BUFF",
     "BlamsSecretMiniUpdateMustBeSubbedToWork",
-    "evolvethis"
+    "evolvethis",
+    "Sub2Noclypso176k",
+    "Sub2MayyjeeeOrCodeWontWork",
+    "Sub2BmGTormenter117onYT",
+    "Sub2CodeNex77k"
 }
 
 return codes;
