@@ -37,7 +37,8 @@ local codes = {
     "ALSUpdateIsCooking",
     "BigUpdateWednesday",
     "BUFF",
-    "BlamsSecretMiniUpdateMustBeSubbedToWork"
+    "BlamsSecretMiniUpdateMustBeSubbedToWork",
+    "evolvethis"
 }
 
 return codes;
